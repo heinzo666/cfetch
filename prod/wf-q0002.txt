@@ -1,0 +1,500 @@
+https://github.com/awaistahseen009/SQLGPTFineTuneMaterial/raw/4b6d6e49beb3b13d512ae352a7775c08cde1e976/finetune-gemma-2b.ipynb
+https://github.com/mudigosa/HUGGING-FACE-LLM/raw/d614d0e4e71fcbc5e6734e1e5c0f0de7234ceeaf/diffusers_doc/ko/basic_training.ipynb
+https://github.com/m0nkspade/TRACE-benchmark/raw/47edb81ca7f93c35cb2561443f33fc18918ac8dc/04_CS7998_Baseline_Training_v1.ipynb
+https://github.com/cdr6934/huggingface_rl/raw/db4e2b5ab02afdaa68574f93ae8c4a22cbdfaccc/notebooks/unit3/unit3.ipynb
+https://github.com/Lvt/huggingface-deepl/raw/4cff6957117f08bbc2e7918965fd4da89bebc19b/notebooks/unit3/unit3.ipynb
+https://github.com/Jiahuan-Pei/AutonomousDialogAgent4AugmentedReality/raw/74748cb9e679ca0e679dbb67defe477308aed367/LEGO_dialogue_agent_llama2/llama-2-chat-agent-inference.ipynb
+https://github.com/CalvinL10/text2sql-constrained/raw/82ee5b935f24982e08734298f21785b90a0f80f6/notebooks/02_base_model_cd_ablation.ipynb
+https://github.com/mAn-He/pdf_vlm/raw/c078163fb36cc514ef2529725853c243d7ffca85/notebooks/pdf_vlm_colab.ipynb
+https://github.com/HiIAmTzeKean/hugging-face-deep-rl-course/raw/0c864daf906fb92f6639907e340f95c4ba8f02e6/notebooks/unit2/unit2.ipynb
+https://github.com/Madara-Mendis/Hugging-Face-Deep-RL-Hands-Ons/raw/4a0745c5b858f3be7dc6c85c930b3c51e01abb26/notebooks/unit2/unit2.ipynb
+https://github.com/Will-est/RL-Course/raw/62a87501b28e8f6b1ff9c23d870eb606f9d5e06a/notebooks/unit2/unit2.ipynb
+https://github.com/T-Sunm/AIO_Meeting/raw/df1e5f7c0ae53e4736c97a14f28d1e39f4b1e4fe/module10/Exam/exam4/PretrainingGPT.ipynb
+https://github.com/omgupta-iitk/Lora-QLora-Implementation/raw/9809c36807a53ffd22379d37fd8e2637039eadfe/Qlora-Implementation.ipynb
+https://github.com/wjunwei2001/TailorMade/raw/8cc49108045f03f210d59143243f789211043064/tiktok_llm_finetuning.ipynb
+https://github.com/Raquib603/Multiclass-Classifier/raw/f65c48821ea752aa066528508f01f24be154116a/Copy_of_Classifier_Next.ipynb
+https://github.com/0xhzx/AIMeng_Chatbot/raw/a0ab640c7265108d20c343a63291c299c795ec34/notebook/mistral-finetune.ipynb
+https://github.com/SuryaThiru/ResearchLens/raw/a42c5eb889c271526392dc58f64db9588644a052/experiments/RAG/RAG_exp.ipynb
+https://github.com/eulalie367/Helpers/raw/7f868b14b09e7895158f07221d55260d64d8ba45/Copy_of_Stable_Diffusion_with_🧨_diffusers.ipynb
+https://github.com/shmublu/texttocodetoimage/raw/79ec6e38b9f63c74b7028abdb62fbc0401b860ec/LiLT/Create_LiLT_+_XLM_RoBERTa_base.ipynb
+https://github.com/yashlanjewar597/LLAMAS/raw/79ec6e38b9f63c74b7028abdb62fbc0401b860ec/LiLT/Create_LiLT_+_XLM_RoBERTa_base.ipynb
+https://github.com/rew35860/HuggingFace-RL/raw/407047c19dc2cbced61da187d60794a750d806c6/unit1.ipynb
+https://github.com/idhantgulati/vlm-alignment/raw/0e90983c15735ee23b1a380e3fcfcdaf78d94782/subspace-analysis/analysis.ipynb
+https://github.com/taqihaider7/MedSETNER/raw/c220b237e5e67a3f53005efa121eda3d10fc7189/Gliner2/gliner2-large-training_full.ipynb
+https://github.com/Masood-Ahmed271/NavigatingTheMarkets/raw/35efbb60f9138237ebb4da2e84141afe4130eff2/FinLLM/llama2_legacy/demo.ipynb
+https://github.com/shinhanshiu/plantbert/raw/855ef4b7225ad8b66d386a83af3bd91979b24bf5/script_1_3_model_performance_sharing.ipynb
+https://github.com/Dinuxd/aggressive-driving-detection-imu/raw/123a9fe3be321a6d5e40b152e39cb54d05b04e13/aggressive_driving_imu_3axis.ipynb
+https://github.com/Anushk97/AWS-Sagemaker-LLM/raw/cd364f2867d8a989135e790e4e9bc71e4d235c78/training/sagemaker-notebook.ipynb
+https://github.com/Datargets/MultiModals_VQA/raw/0c1831c0578fb3bf7697e2961a6899910eea0134/Evaluation/AdaLoraEvaluateIdefics3_8B_Llama3_RAD.ipynb
+https://github.com/Ganesh2409/DocumentSearch/raw/223d070bb582ca8bcc071e7fa0ea1dc17543319e/Qwen2-VL-2B/FinetuneQwen2-VL.ipynb
+https://github.com/eding42/ece157b-hw2/raw/1089579f9a1817dc04ab869d5ce2d1aef587eebb/QA_model.ipynb
+https://github.com/javierteng7/stablediffusion_ifun/raw/21334c41e4a94a36df8b211346e0364e3776dffa/diffusers_doc/en/tensorflow/basic_training.ipynb
+https://github.com/Ninjadeveloper007/-root.json/raw/d614d0e4e71fcbc5e6734e1e5c0f0de7234ceeaf/diffusers_doc/ko/tensorflow/basic_training.ipynb
+https://github.com/233yun/learningNotes/raw/0b94d7d2ff0bf81454df22102487c90b3a453815/notebooks/RL_HuggingFace/unit1.ipynb
+https://github.com/etuckerman/LLaMA-3.1-QA-Finetune/raw/5426f845fc37ade7f81bba81f66ee19c60176241/testing/LLaMA_3_1_QA_Finetune.ipynb
+https://github.com/Smart-Lizard/Aiding_Medical_Diagnosis/raw/3d3a75c96c67440f1bc4f6d80781cf1f69e8cb09/notebooks/finetuning_generation_model_v9.ipynb
+https://github.com/NickLargey/SimpleText/raw/255f4caf09ec9cb30ce62c6bab19c6339f4885f6/Task_3/Text_Mining_In_Class_3.ipynb
+https://github.com/rajveer43/gnn_july24/raw/455b9fd7bcf35eb1aa243b39c40511e039e784d4/notebooks/bonus-unit1/bonus-unit1.ipynb
+https://github.com/Mahmoud-Dayem/aiAgent/raw/e3abf1ad14af96e9cc30a8201d40fe3563138230/locaagent.ipynb
+https://github.com/Chaima-Ja/LLM_and_Agents_Vulnerabilities_Detection/raw/3bfb5bd8f5fc9111b4ba3edfcdeeb121f0bd3118/Basic_prompt/Open_Models/llama.ipynb
+https://github.com/taoofstefan/Fine-Tuning-Experiment/raw/007f2af00239824326ec829c10effb9fb7cd64c2/Code/base model testing/Llama 2.ipynb
+https://github.com/ekaterinasviridova4/Investigating_implicitness_in_user_generated_argumentative_text/raw/fb25db62e6a2c7426a2530ca5a05b8e6ad5af9fc/src/llm_zero_shot/microtext_llama_8B_zero_imp_exp.ipynb
+https://github.com/ubiodee/plutus_demo/raw/c9688250fe731c2c9f455f6c79a88bad53bad285/Fine_Tuned_Plutus_Language_Llama3.ipynb
+https://github.com/hamedonline/2023ws_ctics_human-values-behind-arguments/raw/40e4949ae20455bbe78272c94a2a5372ac2767b8/llm-experiments-llama2/src/get_LLaMa_2_values.ipynb
+https://github.com/srikanth-gedela/SriMLModels/raw/4d3ffdb96c93fe2056a01dfcd60d2603dc2c38a3/LLaMa_2_Prompting_Guide_with_Gradio.ipynb
+https://github.com/AMindToThink/sae_jailbreak_unlearning/raw/bb13cdc4c36e66e2c9fb80d903542ef8c35c5a8b/src/notebooks/gcg_against_unlearning.ipynb
+https://github.com/Yersolid07/meeting_transcriber/raw/84d56e86528cb6acbc66e3c12f52ee7f579be172/docs/skripsi/meeting_transcriber (1).ipynb
+https://github.com/vishnouvina/csc2516/raw/a61251c1c6bd92a8656f0e9163b906eb55f3552f/CSC2516_Homework_8.ipynb
+https://github.com/IrfanOzmen25/Meijer_mPerks_Sample_Reward_Program/raw/9588b1dd165a1de5f69109e6857afaca9e910e94/Meijer mPerks/end_to_end.ipynb
+https://github.com/wenxin01/bam_file/raw/f8cb274f626625a79a38a4f19fab7fefc6fa86e3/notebooks/unit2/unit2.ipynb
+https://github.com/tahamajs/Deep_Reinforcement_Learning_SUT/raw/e9ae624cfbe6ab02dc548e7281f0eb67a0912ed3/Other_Assisments/deep-rl-class/notebooks/unit2/unit2.ipynb
+https://github.com/radialHuman/ds_notes/raw/9f59d3ee846d3eca2895c3c66cdc90059279f900/notebooks/Fine_tune_Llama_2_transformation.ipynb
+https://github.com/weathon/AAS/raw/27a8c8d917bfdc570b2904e08d8bd6c966165bb8/rater_training/scratch.ipynb
+https://github.com/ongxuanhong/gen-ai-and-llm-integration/raw/cf7e7cea79fe3ed54ea40e119f94cff8cb1279d4/05_inference_optimization/5_3_QLoRA_Tuning.ipynb
+https://github.com/Datargets/MultiModals_VQA/raw/7fdd8de2a391e3c8c95d77496e20ea0faeb76512/MultiModals_VQA_/LoRA-r4_/VQA_Rad_dataset/Lora_Qwen2_VL_7B_Med_R4.ipynb
+https://github.com/francisco-perez-sorrosal/RL/raw/64ee15e070c60a3dc35a8586fae6b3e3a82870a4/HF-course/notebooks/unit4.ipynb
+https://github.com/AI-Engineering-bootcamp/ai-eng-nbs-public/raw/76dff683cafa70c60c72bb5be8b2898861be8c11/implementing-semantic-cache-to-improve-a-rag-system.ipynb
+https://github.com/Oli2861/learning/raw/0814c4f97bc89d30658794335cad29ed84f1c148/notebooks/hf_rl/unit2/unit2.ipynb
+https://github.com/jh4581/resume-projects-portfolio.github.io/raw/3f27f3fde140f062059038abc1e9cdc0cb5d32a6/Maven_Advanced_LLM_Module_2a_Mistral_7b_instruct.ipynb
+https://github.com/Horizon-42/llm_post_training/raw/59bdf707a6a62a9e9500d013b6fe2d2a1777d89e/gemma_coldstart_grpo_training.ipynb
+https://github.com/Yonghonghui/26W-EC-ENGR-219-LEC-1-Large-Scale-Data-Mining-Models-and-Algorithms/raw/41268b61dcab904ca352ed1a50c5fed4b9a171e8/Project1/Proj1_LLM_HelperCode.ipynb
+https://github.com/LeeMing001/Fine_Tunning/raw/985a94824a2a002df9c42ca3d326199954f84c02/04_Data_preparation_lab_student.ipynb
+https://github.com/xiaoyo8520/xiaoyo8520.github.io/raw/f7bce673a7fdebcd0235c0983e0aa05af24bf20b/Fine_tuning_Leads_to_Forgetting.ipynb
+https://github.com/FahimHossen55/Gen-Ai-in-Finance-Domain-/raw/ffff20ed2dee36b8e2d5308b1e2645c8ec523b44/5__ Financial_Default_Prediction_.ipynb
+https://github.com/ajsdklf/studying/raw/46881eb33099517845624268cfa8d67a0eeeba7d/RAG/InformationProgramming/EXP2).ipynb
+https://github.com/semaj90/mau5law/raw/d7e4153f115f50ebfafc0d27e5590e1c5b79707d/scripts/unsloth-training/Gemma4_Legal_2B_Export_and_Quantize.ipynb
+https://github.com/Laranguyen811/understand_multimodal_models/raw/9f312b5562fc74dd31ff9aae75663407d9058a33/ViT-Prisma/tests/test_notebooks/Untitled.ipynb
+https://github.com/lkk688/DeepDataMiningLearning/raw/e2d6b179e3a4e91c22e4ef5489c4c25e80f92ce4/nlp/huggingfaceHPC.ipynb
+https://github.com/GURPREETKAURJETHRA/Generative-AI-LLM-Projects/raw/980b6660d0d6b4c668a9b8e174a002007835b441/Llama2 in LangChain/Llama_2_LangChain (1).ipynb
+https://github.com/huoji120/QWEN-EXO-booster/raw/5f2f03495d8d1617a2933fdcfb5ea7cf8f1f995c/docs_new/demo/deepseek_v4_flash.ipynb
+https://github.com/ruslanmv/Generative-AI-Course/raw/f60c9fb9b387b6dfb8d1ed91eda7f1562d4ad415/notebooks/80_getting_started_with_embeddings.ipynb
+https://github.com/ruslanmv/Generative-AI-Course/raw/ac80fc2c575f080106bf83e067a141548ccb3974/Finetuning/Fine_tune_Llama_2_in_Google_Colab.ipynb
+https://github.com/wxmAndrew/ollamam-modelfiles/raw/2f070a02c1c71a87a1d8e2c3072a98904dcdfb89/notebooks/mistral-finetune.ipynb
+https://github.com/olliematthews/lasr-steganography/raw/2bf3edb9fa4c96f06c94ebb3e7f1bd18604ab122/notebooks/RL_Rob_1.ipynb
+https://github.com/klebermagno/LLM/raw/b6174770c3f4f2a1ebbdfea314027b0e1e9876c8/Image.ipynb
+https://github.com/PadawanXXVI/youtube-sentiment-analysis/raw/f177ca373e2f3fe807fc6bb3bbc3ecc51035d943/analise.ipynb
+https://github.com/Kushal-2002/Bengali-Sentiment-Analysis/raw/88ccb95ca692d14a6e84bafb64ddc33b82a7ebd5/Q2.ipynb
+https://github.com/wajahat-alikhan/my-audioclip/raw/9eb99988c890d6d0b428476afe8ce5cf4ca656fe/Draft-1.ipynb
+https://github.com/andli28/HF-Deep-RL/raw/b43a41d49bdefae6674569276b7e9265e1b5b2ce/unit6_A2C.ipynb
+https://github.com/martin-gou/olive_tutorial/raw/17f90c380270004a18f9f7be729ca35dd18e17dc/notebooks/olive-awq-ft-llama.ipynb
+https://github.com/sawyerbutton/NLP-Funda-2024-Autumn/raw/5eada244c1eedcf72b84f0e1e8c5ef4c0e5e62f9/Lesson11/04_Data_preparation.ipynb
+https://github.com/j0ntendo/LLM-trainer-enko/raw/83b99172c483f85d2c2aaa660f2a19953b336749/PEFT_enko.ipynb
+https://github.com/saimtec/NLP-Learning/raw/07870e3ac587c37fcca9047b66e0c3e378278ead/notebooks/01_intro.ipynb
+https://github.com/aishwarya-kumar/skillrec_for_gigworkers/raw/80a6d1f96e71af31869e5ef1eb7ca2b851f71f7f/RAG6_llama.ipynb
+https://github.com/MDSD99/Py-LLM/raw/433f7f94e70dfc0a61959d0594387b73bcad5fc4/module/gema_token.ipynb
+https://github.com/diegoandradecanosa/Cesga2023Courses/raw/8f2c67966fc3aee05c6b8644c87744f177690e46/pytorch/04_tokenizer_training.ipynb
+https://github.com/MehdiLagnaoui/llm-guardrail-evasion/raw/c3806235c7b2ca6c259f47744060d065807b0fc3/code/evasion.ipynb
+https://github.com/boostcampaitech8/pro-nlp-generationfornlp-nlp-13/raw/890643d531ac4a1a99c7e26c6d4402219c327305/notebooks/Yoon/code_fixed.ipynb
+https://github.com/DimitriCalmand/nlp-prompt-quality/raw/a81b31e6e154865d813b150bf263a17da8d2eb32/supervised-learning.ipynb
+https://github.com/sin2pie/whisper/raw/99c3c819af94282626f36f43dbbe73215ae1fa1c/whisper-trainer.ipynb
+https://github.com/fahad0071/therapistAI/raw/f8dc4dbb21fbb770acc82bf89bbcc857bdd8ceca/RC_Therapist_(1).ipynb
+https://github.com/AkashSingirikonda/mechinterp2222/raw/c34f3926ce72b24f99b089db00e15d2cb622189d/utils/prompt_demo.ipynb
+https://github.com/Ninjadeveloper007/-root.json/raw/d614d0e4e71fcbc5e6734e1e5c0f0de7234ceeaf/diffusers_doc/ko/basic_training.ipynb
+https://github.com/HuanMinpopcorn/huggingfaceRL/raw/0e012140b7bc0e15c5803458b7fa7d4d5c5a383a/notebooks/unit3/unit3.ipynb
+https://github.com/Ryukijano/Deep-Reinforcement-Learning-and-Hugging-Face/raw/bc312c21b5ab402de2869b8e6f11757164b39a86/notebooks/unit5/unit5.ipynb
+https://github.com/boostcampaitech4lv23nlp2/final-project-level3-nlp-13/raw/a9c0e1adbd658745949f9d8385ca92407f6cb72a/notebook/upload_dataset_to_huggingface.ipynb
+https://github.com/IvanSergeyevichZhuk/ML_KPI/raw/39e7332710d58dd9fb3a15ab829f71eb277cb30d/notebooks/unit1/unit1.ipynb
+https://github.com/nkityd09/cml_speech_to_text/raw/186060c6f7307ad40f429d78dc267b533515b8df/utility-notebooks/Whisper_Milvus.ipynb
+https://github.com/RanL703/HF-Deep-RL/raw/18812b8c88d83a4b04dc640b49b04e1d3f88aa5f/notebooks/unit1/unit1.ipynb
+https://github.com/AdiGiriIIT/AdiGiriIIT/raw/114f35512ae6ba9560de4bde6342b33cd9d19ee2/notebooks/unit4/unit4.ipynb
+https://github.com/InyhW/RL/raw/e7c3873822157fb92e8839ff9a6805d443b35124/notebooks/unit4/unit4.ipynb
+https://github.com/RyanEAA/HuggingFaceRL/raw/4d41bf6977b74a41973661be1c6aea66cd3b54be/notebooks/unit4/unit4.ipynb
+https://github.com/tanmayagrawal21/RAGChecker/raw/8cd782d501a46df11a86fa68fad9a4dd3f3b56e4/archive/kg_validation.ipynb
+https://github.com/yewon0325/GraphRAG-with-Neo4j-and-LangChain/raw/c34b866a51c006e2ec64d88a1f3c9e342a92b06b/langchain_RAG_llama3_1.ipynb
+https://github.com/dasarpai/HBQA/raw/ac0d3d31aad46436feb3792f283d87acc865cd14/06_12_QAGS_ChatGPTAPI_Embeddingy.ipynb
+https://github.com/jaipathak1972/Skill_Gap_Analysis_Tool/raw/53a9d650d8a2064e0701a78788f47efa31ab37fa/data_cleaning/cleaning.ipynb
+https://github.com/Ajaydhiman07/HindiNERusingXLM_Roberta/raw/f1a27f75958f07a297dd5ea864cfeac2f8cddf38/HindiNERusingxlmRoberta.ipynb
+https://github.com/tushar-madheshia/test-gpu/raw/14f36cbf4e24e2723706281f380fc813f57f229d/Saas_Backup/LlamaCoder.ipynb
+https://github.com/bayanaujwala/ResearchLens-main/raw/a42c5eb889c271526392dc58f64db9588644a052/experiments/RAG/RAG_exp.ipynb
+https://github.com/Aayan107/LexiScholar/raw/a42c5eb889c271526392dc58f64db9588644a052/experiments/RAG/RAG_exp.ipynb
+https://github.com/Antepil/RL-learning/raw/7b997699bdb6df3a260b80c5310220b9136b933b/notebooks/unit8/unit8_part1.ipynb
+https://github.com/ndif-team/nnsight-website/raw/1a30c6390f009e8b7711b9542aeec51b3500e5fb/docs/tutorials/tutorials/get_started/start_remote_access.ipynb
+https://github.com/mbrochlips/GRPO_Qwen/raw/411d3ed0ab7a159de73b823e6f92404252c185be/code/safety/07_sweep_first_try.ipynb
+https://github.com/SAIKIRANPATNANA/LLM_FINETUNING/raw/ac1b645d02986bc7976535a428f0de05c57d9471/LLM Fine-Tuning-08-Huggingface/huggingface_crash_course.ipynb
+https://github.com/pratt3000/Character-bot/raw/4c669708926a151ec93720a62bfac22188e6b401/misc_all_scripts/machine_8/1_SFT_finetuning_chai_lowlr.ipynb
+https://github.com/pratik-naik003/Complete-LLM-Finetuning-/raw/ac1b645d02986bc7976535a428f0de05c57d9471/LLM Fine-Tuning-08-Huggingface/huggingface_crash_course.ipynb
+https://github.com/webmakaka/Complete-LLM-Finetuning/raw/ac1b645d02986bc7976535a428f0de05c57d9471/LLM Fine-Tuning-08-Huggingface/huggingface_crash_course.ipynb
+https://github.com/fanguw/diffusers/raw/25fcb36a47d56214a5ed5cffbe60368d7202a041/examples/research_projects/sd3_lora_colab/sd3_dreambooth_lora_16gb.ipynb
+https://github.com/johnephillips/diffusers-krea-distillation-challenge/raw/25fcb36a47d56214a5ed5cffbe60368d7202a041/examples/research_projects/sd3_lora_colab/sd3_dreambooth_lora_16gb.ipynb
+https://github.com/hxixixh/diffusers-amo/raw/25fcb36a47d56214a5ed5cffbe60368d7202a041/examples/research_projects/sd3_lora_colab/sd3_dreambooth_lora_16gb.ipynb
+https://github.com/tecworks-dev/BlobCtrl/raw/25fcb36a47d56214a5ed5cffbe60368d7202a041/examples/research_projects/sd3_lora_colab/sd3_dreambooth_lora_16gb.ipynb
+https://github.com/Vepricov/WLoRA/raw/c46bbf6a1a3b82335c9b4b92927731f100e140e0/peft/examples/causal_language_modeling/peft_ln_tuning_clm.ipynb
+https://github.com/FahimHossen55/Gen-Ai-in-Finance-Domain-/raw/df79dd614ecb13e5d343cc6cb5954c3a344254e3/1 __ GenAI_Financial_Report_Building.ipynb
+https://github.com/FahimHossen55/Vector-Databases/raw/1145a30e9e46ce39f6086ee83313bf8661585960/PineCone VectorDB ALL/PineCone_VectorDB.ipynb
+https://github.com/LukasOttenhof/JupOtter/raw/3cf4bf71d11616568bc4ab0a4a10a683fc38d2ba/dataset/OtterDataset/MemoryErrors/dyingc_finetune_notebooks_mistral-finetune-own-data.ipynb
+https://github.com/RSDP101/Anime-SD/raw/25fcb36a47d56214a5ed5cffbe60368d7202a041/examples/research_projects/sd3_lora_colab/sd3_dreambooth_lora_16gb.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/360030d70a942a8f72c6a13c401a421f08490cab/MISTRAL_7B_Evaluation_1st_query_9th_iteration.ipynb
+https://github.com/kodimanpr/AI_Engineering_Bootcamp_1/raw/76dff683cafa70c60c72bb5be8b2898861be8c11/implementing-semantic-cache-to-improve-a-rag-system.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/d9e03a0d58d6fb50041b9c1ef0e5a9bdee05237f/26_April_Tinyllama_Evaluation_11th_query_4th_iteration.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/74c7c16bfb448688f8458f200a11a87e2282404b/Llama_13B_Evaluation_3rd_query_6th_iteration_1st_prompt.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/947a25712fa2c422d31a1abaddf77f4d4ef7b9cc/Llama_13B_Evaluation_4th_query_7th_iteration_1st_prompt.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/5c34af189b7509def0760533791917daaaa8e1de/copy_of_Tinyllama_Evaluation_9th_query_6th_iteration_1st_prompt.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/5d82a7088fd826c4b58cb2b2102d1c1a73781eca/copy_of_Tinyllama_Evaluation_8th_query_11th_iteration_1st_prompt.ipynb
+https://github.com/fardinafdideh/Machine-Learning-A-to-Z-using-Python/raw/3ef103c6f527d067e09e1714790488bea960e3fc/Hugging Face/Deep Reinforcement Learning/Unit 1- Train your first Deep Reinforcement Learning Agent.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/ce61d3b46c8c600873d9089489900361823e6d2b/copy_of_MISTRAL_7B_Evaluation_9th_query_10th_iteration_1st_prompt.ipynb
+https://github.com/LukasOttenhof/JupOtter/raw/d69b29dd22e88c167f1684ad0785910ba88d10a7/dataset/OtterDataset/CyberSecurityNotebooks/saishshinde15_CrewAI_GitLens_AI(An_Easy_Way_to_Find_Various_Repos).ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/74829fe2c97f495b953a1150585a7d2f912a88ea/Another_copy_of_Llama_30B_Evaluation_6th_query_6th_iteration_1st_prompt.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/983bab3d734dff8ef92884f9396cb4e90a4344f8/Another_copy_of_Llama_30B_Evaluation_6th_query_5th_iteration_1st_prompt.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/e289f0e9deb7a9b87ad3a10c4e9de7f4fff83fa7/19_APRIL_RAG_Retrieve,_Augment_and_Generate_results_5st_query_3rd_iteration_Humannutrients.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/62b0c1ec52f4093b765b5b562e3d07b6fc0001d9/Tinyllama_RAG_Retrieve,_Augment_and_Generate_results_6th_query_4th_iteration_2nd_prompt_HumanNutrition.ipynb
+https://github.com/efarrell1/unlearning_with_saes/raw/7279009e4ce1d1af1981ad8f076ec566a1c2772a/notebooks1/test_unlearning_by_prompt.ipynb
+https://github.com/jetsonai/LLM4RobotsClass/raw/77fe5fd9c1f9fb9ed5e30889c91d2b7c8bf622c7/Day2_FineTuning/Test_llama3.2_v1/DataPreparation_llama3.ipynb
+https://github.com/jetsonai/LLM4RobotsClass/raw/ea3ad9b93abb1bb1db1253061d537a869d597a41/Day2_FineTuning/Test_llama2_llama3/3_Load_and_Save_Model_llama3_8b.ipynb
+https://github.com/spmallick/learnopencv/raw/268ad874e231e42252c501bfe4c613b657c42be2/Video-Generation-A-Diffusion-based-approach/Hunyuan_Video_inf.ipynb
+https://github.com/philschmid/deep-learning-habana-huggingface/raw/68c475659e1ec0a24bf914cd9c4ce980aa5170ab/pre-training/pre-training-bert.ipynb
+https://github.com/scottgl9/sglang-spark-gb10-optimizations/raw/5f2f03495d8d1617a2933fdcfb5ea7cf8f1f995c/docs_new/demo/deepseek_v4_flash.ipynb
+https://github.com/calm-ixia/SDManualGUI/raw/42c0c6f4b1a98378f33d7e2c9c73db199d30b738/SDManualGUI.ipynb
+https://github.com/anyantudre/MooreSpeechCorpora/raw/f81ca386e2ca059d48367d163cc16b252571481d/tutorials/noise_reduce.ipynb
+https://github.com/nerdymark/nerdstyle/raw/26f8c190f53544a737033c8690d7f3456086f8e0/Walkthrough.ipynb
+https://github.com/LukeWood/stable-diffusion-performance-benchmarks/raw/2e75234f3e6b5efc046b9b4cd2eb4ff00bfd1d46/benchmark_stable_diffusion.ipynb
+https://github.com/olusolaolagunju/Plant-Protein-Funct-Database/raw/fdce45b7906c7bd9462deef56df0ff79df995eec/Web-of-science-abstracts/classify-Llma.ipynb
+https://github.com/aws-educate-tw/aws-educate-sagemaker-workshop/raw/74f1a8c205e007061e61951859c82c0ba699d2eb/references/notebooks/train-deploy-llm.ipynb
+https://github.com/twokindswater/genai/raw/ebbee6d56321dda517e91a56a6a0bbd3322af639/llama.ipynb
+https://github.com/iliazlobin/transformers-labs/raw/56a2843bcbcea4e30e3a38ee713d05f459fe5532/model-train/train-falcon-bbn4bit.ipynb
+https://github.com/Logisx/LLMath-QLoRA/raw/0aee0369edcc4f12e8c8a3c8018a80d1f1777e76/notebooks/research_LoRA_math.ipynb
+https://github.com/cosmo3769/Quantized-LLMs/raw/0901d93888063e14cd8c73370d0d1e22af7f0ffa/notebooks/starcoderbase-3b-lm-evaluation-harness.ipynb
+https://github.com/kaiu85/stable-diffusion/raw/3c3b8b5ec9125ee2874a720b6b8aba6fdaff05ee/huggingface-notebooks/course/videos/push_to_hub_new.ipynb
+https://github.com/kanasva/llama2-inference/raw/0e204c212b7e6df1f47cda9785fb9347184bb4c6/llama2.ipynb
+https://github.com/Aisuko/notebooks/raw/2e4f405f8c5c3a726661dfadf0d02d4b2fdaca5b/visualization-statistic/tokenize-the-data-for-pre-training-neural-network.ipynb
+https://github.com/None1145/Fish-Speech-Colab/raw/1a5c40085b4213ef0708d909996dfecffc64135a/Fish_Speech_Infer_Train.ipynb
+https://github.com/Hania-Ab/NLP-LLM-Projects/raw/deecca85e7315dcb9229a8b776cb2bf7c157cb25/Projet_NLP.ipynb
+https://github.com/TristanMorelle/stable-diffusion-uncrop/raw/4f2ac43589d391ab4c17bd4878c635c20f58ef64/Web_based_UI_for_Stable_Diffusion_colab.ipynb
+https://github.com/Ice-Citron/GPTesla-Code-Generation/raw/59d4a3ede0233f1f1dc18867e75c9f32316c5b0d/Tokenizer_Training.ipynb
+https://github.com/rkaunismaa/HuggingFaceCourse/raw/0c504c9ead08445ed37fb515820362a081c6cd19/chapter8/section2.ipynb
+https://github.com/Kushal-2002/smai_a3/raw/88ccb95ca692d14a6e84bafb64ddc33b82a7ebd5/Q2.ipynb
+https://github.com/cloud-zby/SGLang-HiSparse/raw/5f2f03495d8d1617a2933fdcfb5ea7cf8f1f995c/docs_new/demo/deepseek_v4_flash.ipynb
+https://github.com/lobster-bujiaban/sglang/raw/5f2f03495d8d1617a2933fdcfb5ea7cf8f1f995c/docs_new/demo/deepseek_v4_flash.ipynb
+https://github.com/dys0re/muxmoe/raw/5f2f03495d8d1617a2933fdcfb5ea7cf8f1f995c/docs_new/demo/deepseek_v4_flash.ipynb
+https://github.com/izazahmad-ai/LargeLanguageModels-LLM/raw/980b6660d0d6b4c668a9b8e174a002007835b441/Llama2 in LangChain/Llama_2_LangChain (1).ipynb
+https://github.com/harshal0704/DubCore/raw/442004cf7620ba733a7295b419b5862bd9e043ad/dubbing_pipeline_v3_enhanced.ipynb
+https://github.com/quochuy242/fall-detection-models/raw/f357f537c2d46e24ffbfbc94fcf0034736a7a3c0/notebooks/upload_dataset_to_huggingface.ipynb
+https://github.com/drivendataorg/youth-mental-health/raw/7f0c764083051e4389e8d6c7656630ac473a7322/novel-variables/3rd Place/notebooks/3-run-inference.ipynb
+https://github.com/EgorFokin/texture_singapo/raw/510999fddfa3b4bad537c76b7833131d85113b6e/TEXTurePaper/demos/TEXTure_demo.ipynb
+https://github.com/JanRiebe/HuggingFaceCourses/raw/94e985e423a89cb91250bf9aa4359fbc738daaf6/notebooks/bonus-unit1/bonus-unit1.ipynb
+https://github.com/adityamahamuni/Event-Extraction-from-Financial-Articles-Using-Natural-Language-Processing/raw/5eeaf8b9ddb2c6829438b88759e9e68691206c3d/src/Analysis/FinGPT_Zeroshot_learning.ipynb
+https://github.com/bnzonzi/whisper-transcription-tool/raw/d8fd7d1eee1b15841356f68036bd95f483f6bab8/notebooks/transcription_v1_legacy.ipynb
+https://github.com/Samin-Sadaf7/Fine-Tuning_LLM_Model/raw/4cf97db2e67a9d5d79b301cc6592c542abe4fd6e/Finetune_Llama3_with_LLaMA_Factory.ipynb
+https://github.com/lengocquanggit255/SUDO-dataset/raw/b1579af77624e853a73374d2671a4968c40d786d/code/lm-based-model/sudo-t5-large.ipynb
+https://github.com/chansongoal/LaMoFC/raw/8e8190a59324a8833ed6cf643d675bc7bc40b5a9/machines/sd3/diffusers/examples/research_projects/sd3_lora_colab/sd3_dreambooth_lora_16gb.ipynb
+https://github.com/ccwu0918/deeplearning.ai/raw/9c3621d6b7c39d8822d1b17e73f1cbbbb01794b2/w8-l3_Instruction_tuning_lab_student.ipynb
+https://github.com/Hamza-A-Ansari/Generative_AI/raw/9f59d3ee846d3eca2895c3c66cdc90059279f900/Finetuning LLAMA 2/Guanaco_Llama_Dataset.ipynb
+https://github.com/jortan02/compositional_task_evaluation/raw/68347a9755c75fcbc960c4b28bf6e1a91d8c81fd/scripts/outlines_demo.ipynb
+https://github.com/ZhangYi1999/peft_lsy/raw/c46bbf6a1a3b82335c9b4b92927731f100e140e0/examples/causal_language_modeling/peft_ln_tuning_clm.ipynb
+https://github.com/ali3alnasser/peft/raw/c46bbf6a1a3b82335c9b4b92927731f100e140e0/examples/causal_language_modeling/peft_ln_tuning_clm.ipynb
+https://github.com/girijesh-ai/llm-projects/raw/980b6660d0d6b4c668a9b8e174a002007835b441/Llama2 in LangChain/Llama_2_LangChain (1).ipynb
+https://github.com/rams211/LLMFoundry/raw/980b6660d0d6b4c668a9b8e174a002007835b441/Llama2 in LangChain/Llama_2_LangChain (1).ipynb
+https://github.com/anandcse17/python-ai-bootcamp/raw/55c988ff1ff7617209d5a3ded78c2fe0865fdae6/day-78-2026Mar17-genai-gemeni/16th,17th - Google Model/GEMMA MODEL WITH HF_ Gemma-2-9b-it.ipynb
+https://github.com/francescoocurcio/information-retrieval-natural-language-processing/raw/1a315d4991590247498aaa78b29ff9d4d2c7b3d5/SFT/LLAMA/[sezione 4.1] sft-llama3-2-3b-it-cs-qa.ipynb
+https://github.com/atf-inc/dec25_intern_A_security/raw/447fa7832052276c7da8043ca74279e8ec09b26f/quantum_llm_waf/PurpleLlama/LlamaFirewall/notebook/LlamaFirewallGettingStartedDemo.ipynb
+https://github.com/cassiasamp/llms_courses/raw/d67bea0885f1e37a5448d22644ae0dcb3a0eee68/finetuning_llms/lesson3/03_Instruction_tuning_lab_student.ipynb
+https://github.com/jackliaoall/deep-learning_exercises/raw/25c4da104b40c111bf0fdbe373a765adcd672feb/AI Art/StableDiffusion/Web_based_UI_for_Stable_Diffusion_colab.ipynb
+https://github.com/Idun9000/Gender-Stereotypes-in-LLM-generated-short-stories/raw/83663f0cbc254d84a5c508f9a78d56380029db30/notebooks/Investigating_existing_LLM_generated_stories_data.ipynb
+https://github.com/Datargets/MultiModals_VQA/raw/7908448fb2715360fdb5544e7b47bb98f9af7d73/MultiModals_VQA_/LoRA-r4_/VQA_Rad_dataset/LoraLlama_3_2_11B_Vision_Instruct_MedR4.ipynb
+https://github.com/carlosdh12335-ship-it/INTELIGENCIA-VASTA-DA-IA-/raw/881fa752ceaf4013016761aede4bae25ee76d913/external_sources/llama_index/docs/examples/vector_stores/SimpleIndexDemoLlama-Local.ipynb
+https://github.com/FrankVanDerVelde/master_applied-artificial_intelligence/raw/25c09a37e13741d55b174c1ff4e94fde9290d45e/techworkshops/les_2/computer_vision_les_2.ipynb
+https://github.com/DevNoctis1001/LargeLanguageModel-Projects/raw/980b6660d0d6b4c668a9b8e174a002007835b441/Llama2 in LangChain/Llama_2_LangChain (1).ipynb
+https://github.com/shaswata09/AgenticCyOps/raw/e1817c8b05aaf9e679eb117ba5c38edd0522fcc9/domains/cyberops/existing_defense_eval/d8_adversarial_finetuning_secalign.ipynb
+https://github.com/ealtili/Ainotebooks/raw/ebe4cb1253a3804da80435ca1a0fbadb2a1f000c/deeplearningai/FinetuningLargeLanguageModels/04_Data_preparation_lab_student.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/165e21d0814a776f0ddaaa198aa8f12c4c49a802/MISTRAL_7B_Evaluation_3rd_query_6th_iteration.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/9385fe74a9eb981c9d5a2f99337c7e0d39da6b91/21_April_Tinyllama_Evaluation_1st_query_1st_iteration.ipynb
+https://github.com/fardinafdideh/Machine-Learning-A-to-Z-using-Python/raw/d7cfdf29610078dd53fc7d6b3699d4ca2127dc86/Hugging Face/Deep Reinforcement Learning/Unit 2 Q-Learning with FrozenLake-v1 and Taxi-v3.ipynb
+https://github.com/GeYxDev/AIGC-Gallery/raw/8e8190a59324a8833ed6cf643d675bc7bc40b5a9/AIGCGalleryCreator/diffusers/examples/research_projects/sd3_lora_colab/sd3_dreambooth_lora_16gb.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/b450dd5166d8996553c71fdc06317e6f220dfb08/Copy_of_MISTRAL_7B_Evaluation_4th_query_2nd_iteration_1st_prompt.ipynb
+https://github.com/semi-literatedengineeringstudent/LLMReasoningFinetuning/raw/99d7d1a0e55ce648ec87b73ead95c728502a3d6b/finetune/stockmarket/phi-1_5/finetune_phi_1_5_stockmarket_CoT_double.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/320abb8edf6e493dc331f7f4f510ffa849b79e0f/Another_copy_of_Llama_30B_Evaluation_6th_query_1st_iteration_1st_prompt.ipynb
+https://github.com/cacique10/Summarization-Fine-Tuning-BART-GPT2-T5-PEGASUS---NLP/raw/558f8b71b29957b1b8ef8f8e600a977ff8038520/Summarization Fine Tuning BART GPT2 T5 PEGASUS - NLP Hugging Face Project.ipynb
+https://github.com/aparnavinayankozhipuram/Mistral-7B-Evaluation/raw/023b68c1c6b487a74f3d311f5a941396ec97e6cf/Another_copy_of_Llama_3_1_8B_Evaluation_7th_query_8th_iteration_1st_prompt.ipynb
+https://github.com/sagazluiz/DeepLearning-AI/raw/38efea4c112d662a83cb65e6393709aee97483b1/Finetuning-Large-Language-Models/L03-Instruction_tuning_lab_student/03_Instruction_tuning_lab_student.ipynb
+https://github.com/mahmoodhegazy/HMAFQA/raw/af316c7b83a8248cee5657d102e36586d4cda3d8/test.ipynb
+https://github.com/matansharon/Data-Science/raw/ad07bc3ee57429240649c83b733c9ee8c4ad71d2/some tests/hf.ipynb
+https://github.com/AmarHek/chest-x-ray-classifier/raw/0c3f4aa729b422d01fa26a08e45d8cbe7117d34d/test/testing_huggingface.ipynb
+https://github.com/AMindToThink/sae_jailbreak_unlearning/raw/4e1ad1d051bab014250c7ffdd619bbb926089b06/src/scripts/unlearning_with_saes/notebooks1/test_random_order_questions.ipynb
+https://github.com/Abdulhameed556/VeraCT_Scan_news_verificaion_system_1/raw/5d8c21619ebd817d7566aa0258324b2478f10700/rag.ipynb
+https://github.com/csci5832-f23/assignment_4/raw/d67c7fed929b78015b0f6843b97d5de9f39d427c/NLI.ipynb
+https://github.com/KaraniAbdellah/moroccan_chat_culture/raw/e93060f609fbc3b55a2ecfabfc9050b1e9141889/app.ipynb
+https://github.com/Adesh220302/LLM/raw/5d595029bf0c4d0c7526f7a50cac273610c95c68/llm.ipynb
+https://github.com/vorstcavry/T/raw/e00cdd3f3312a2c60f67e70b6298beec8235bc2c/T1.ipynb
+https://github.com/collin-burns/discovering_latent_knowledge/raw/135af057a3bc368fbd528c3bcca25c95c4ab8cca/CCS.ipynb
+https://github.com/bdzwillo/llama_walkthrough/raw/ac575937d0c2e26a001d413febf3cd3b7c5195c1/run.ipynb
+https://github.com/vorstcavry/T/raw/2a43b4055b6f9c25b0daa55f4c37661e95b81129/T3.ipynb
+https://github.com/mshojaei77/RAG_CAG_SFT/raw/7983a068a7a2a70299f3c75598e4eccd9df64ce5/cag.ipynb
+https://github.com/hatedogs/hatedog/raw/eaf324377c17fc20b6bbb24a37138800c68194e0/run.ipynb
+https://github.com/arth-shukla/squad2.0-bert-question-answer/raw/28a405c17da2e47d63c4afea956e8823908db1f0/qa.ipynb
+https://github.com/Velkey-Jozsef/onlab/raw/a1db022f258df578a74a19ea73faf36070117a11/rag.ipynb
+https://github.com/chenhaoxing/DiffUTE/raw/4392dbc53a95cfdf8d76403277c0cab58b189541/app.ipynb
+https://github.com/owenliang/qwen-dpo/raw/b8d1efa2b1f2de49d6fa2d8ed2d71869a49957f8/DPO.ipynb
+https://github.com/arcesoftware/modern-codes/raw/28088483509cf21c383c4724932292aee63592e6/NLP.ipynb
+https://github.com/zhengyangb/Ordered-Neuron-LSTM-with-Pretrained-Model/raw/9015c434b07fcb78a65df2b37f45907b99787066/GPT.ipynb
+https://github.com/Kowsher/Propulsion/raw/1436d34ff16d76abf76415e4cc61d60c3fd6c49e/RTE.ipynb
+https://github.com/iAdtya/SarvamAI-VLM-FineTuning/raw/cb27c90a26ecee9de7c922035dbfc2dfff4151f4/HF.ipynb
+https://github.com/Kowsher/RoCoFT/raw/5a5eb7e9c27acc7634535c04890ccc210e83ff90/NTK.ipynb
+https://github.com/neilzhangpro/langchain_course/raw/a3ce8ad4f4ffacb822a82f59f535d5e314cacd0a/07.ipynb
+https://github.com/Gha5san/Vision-Transformers-CIFAR100/raw/6c9575d1aa779eacb46d6e5d13699f355849370c/ViT.ipynb
+https://github.com/karanjakhar/3-days-of-rag/raw/80c12c739a28c49f64b598261f3f0dba3a40dcca/exp.ipynb
+https://github.com/Raghavendra-Sqwish31415/synthetic_finetune/raw/a6c12d57268803133f33c3e3e5215e348a5cccb6/RL.ipynb
+https://github.com/RaghaRao314159/RL-with-Synthetic-dataset/raw/c5b35d481c0f86048670d3b80d044e6486dc808f/RL.ipynb
+https://github.com/dmbernaal/GPT-X/raw/09c1fa96aa4aa83ff310bec4ca53c6a8ee104c39/01.ipynb
+https://github.com/pramaths/mistral-training/raw/85881cc008ca79a4bd6869f790b0f539ca9493b8/a.ipynb
+https://github.com/su2708/Fullstack-GPT/raw/39ef1b963dab83725005e552fa3fa25f1ce6fe34/ch8.ipynb
+https://github.com/ashiniKavindya/first_chat_bot/raw/3383015996c45554b30721e7724e07fabdfbe00f/bot.ipynb
+https://github.com/maham-gif/AdvisorAgent-using-LangChain-Flan-T5/raw/c12739e3f4490b805579562de5628d86fab0764e/AI.ipynb
+https://github.com/Brady-Higgins/omnistudy-AI_Testing/raw/0018db5b989cb193bfdc03239f885aa4f187fa28/QA.ipynb
+https://github.com/Amit-kr26/Agent-Management-System/raw/7f59e8e048266ca7f58a2966a8e769a8e0fe6a07/l1.ipynb
+https://github.com/PhelixDEYU/Network_Class_File/raw/c6eab187587d7dd58d8d2aebaf0b8f07998d94a8/4hw.ipynb
+https://github.com/Louay-Yahyaoui/AskDocs/raw/9b9b0bfa123f81362b62c226634ded13ca3b101d/rag.ipynb
+https://github.com/Neeraj6197/Q-A-RAG-HF/raw/48e2ff267e49d8bc011e5f7da9fa27d7ace9be2d/rag.ipynb
+https://github.com/jithsg/Langchain-Simple-QA-App/raw/1b30891e523387f57d2dece60994304b7df42966/app.ipynb
+https://github.com/PshEzra/NLP_T1/raw/9dbca01ce597433a793bead5f40d379917e33ada/bpe.ipynb
+https://github.com/singhsourav0/Image_Description/raw/12f09688ffda559d9396ba4b4796296deb7c528d/app.ipynb
+https://github.com/DanielDaCosta/prompt-learning-bias/raw/fd9b0e192ccab5b2374af44badbd4791911f3f20/mlm.ipynb
+https://github.com/x-46/rag-pipeline/raw/5bda3420ca4b840bfe8d568f330ce1f5859bef8c/rag.ipynb
+https://github.com/andrew-atef/AI-Violence-Detection-System/raw/1bbc4d8910c6ac62d647eddf256fdb32f00b004a/app.ipynb
+https://github.com/Pavan8421/tcs-hack/raw/f155415b4d46c84a8e34ea59e130ec57e5a94c5b/ps3.ipynb
+https://github.com/RaulPPelaez/llm_handson/raw/7dd90cd89c805a4702829f33fab8521e6923190a/rag.ipynb
+https://github.com/Manoj632004/Machine-Learning-Basics/raw/1ad212a8c6ef1145cd0f1509d8378d337d45f36d/RAG.ipynb
+https://github.com/Aryandudhale/Restaurent_Name_Generator/raw/2dffd96279610dd1c8f4e7b98a07f33bbf1a47a7/Run.ipynb
+https://github.com/vorstcavry/T/raw/909c072acaad6520c64ea036ac87cd4ba31d34da/T2.ipynb
+https://github.com/BalasubramanyamEvani/Scientific-Named-Entity-Recognition/raw/e87a4fa1755d05e1ff56395884b02613ceb9b947/ner.ipynb
+https://github.com/kenken6696/lcot/raw/371939d24c7803e5fc4df366f4bcb4a6563a567d/T2L.ipynb
+https://github.com/Desire32/lora-ml-transfomers/raw/1791050558e48388be878cac803d62191f24fb90/RAG.ipynb
+https://github.com/nogibjj/Michelle_Li_Project_2/raw/08cfd8e3b0227a1c69242b8bdf5286e79afb750c/ex.ipynb
+https://github.com/Phantom-Lucas/LLM_Semantic_Comparison/raw/ae4e8b2aeefef51dae68c2c91f5634d26edf9b8d/t1.ipynb
+https://github.com/Ocramaru/sao-guidance/raw/34ea8e87f803ef10050bcdcf1eceadb744f2fc47/sao.ipynb
+https://github.com/UbiquitousLearning/FeS/raw/2508079746b7e98e133ea1d453605f8b5ae0d66e/a.ipynb
+https://github.com/probabll/ntmi-tutorials/raw/34a9ae2ad3adf2e1a20d6a9cc7a91803a15be7ab/T6.ipynb
+https://github.com/SohamG934/NumpyBot/raw/126a8d680e887be7fbf8b01db2bf85eefc6b72d5/bot.ipynb
+https://github.com/cs124/pa4-embeddings/raw/93983fbeaf5a7f0fa2ba03b170554017a7e4c277/pa4.ipynb
+https://github.com/hayatoshibahara/trl/raw/499c477e9c743ca2226a93b361a89fdd5c11a344/sft.ipynb
+https://github.com/eTToReeDP/thesis/raw/5002d0ec739fceb10d9aba835a1d379ef6a6c7c2/RAG.ipynb
+https://github.com/camenduru/guanaco-lambda/raw/3e3d94dba62fc49ed70271e1a1d3f663606207f2/run.ipynb
+https://github.com/soumit1803063/LLAMA-Finetune-Question-Answering/raw/e6b8d72418f71a2f7fa7e5a3580b228905cf8a62/rag.ipynb
+https://github.com/niteeshchaudhary/ChitraKatha/raw/a6da64a7d5dad88aac014693a7a6aabc6bcb0cdf/my.ipynb
+https://github.com/ramanath-naik/machine_learning/raw/e9c8614a1c26d93907aa2b0cc32639243509e8a7/LLM.ipynb
+https://github.com/hayatoshibahara/trl/raw/21e477932798702ea04ee97ae5d5ae7233d27dd0/ppo.ipynb
+https://github.com/beita6969/DeepSeek-R1-Distill-Qwen-32B-Medical-Fine-tune/raw/5c971a2bec58e630b08e193d27bc90c83204833b/ui.ipynb
+https://github.com/dgduksict/chatbot-duke/raw/334c08c0f01f7a5dbc05ea84c0a3820fde26a5ad/nb.ipynb
+https://github.com/mattp8638/BlueTeam/raw/db842e93d5d32ae49db2268e4f9ffccd2203a2bd/LLM.ipynb
+https://github.com/garvkhurana/machine-translation-transformer-model/raw/b8231ce59a69cb4d04869641a348dacb5e8fb382/MT.ipynb
+https://github.com/MladenDzida/Document-Retrieval-System/raw/45c2b90baf90865ce8cff09521fbdd701d4736de/RAG.ipynb
+https://github.com/camenduru/llama-2-70b-chat-lambda/raw/af14c4852ab4c29588fcab78a846a716785a529c/run.ipynb
+https://github.com/sijichun/PythonTutor/raw/db15beaa1a3c466078470dcc6e324c15f093203e/LLM.ipynb
+https://github.com/fedorTurchenko18/dsc-571/raw/ae805514eca4837d812e623bc49fa4bb705cfac8/xgb.ipynb
+https://github.com/Charon-yzc/llm/raw/437c705ed35376d479d4a1bf4b253dc1c352229e/2.ipynb
+https://github.com/nihalenc/turkce_duygu_analizi/raw/1b73f4e8a9a8211b0283f252734eb4ae024230e5/app.ipynb
+https://github.com/MasterGodzilla/writing_copilot/raw/aaa48a36f08706f3d9069fdcffa4d9a0cb326ede/run.ipynb
+https://github.com/Nitsinghtomar/NLP_Concepts/raw/5888dbcf0db6b71e5a80ba880873f18f59dc9ebb/NER.ipynb
+https://github.com/DoondyRayankula/Doondy/raw/f2faab7428f5d421dbbdbecc054a5ccae2f9b8af/RFP.ipynb
+https://github.com/samiralfayed/RAG-Python-Assignment/raw/4207d7727fd2c0fb34d2ebe63fd70e4b41fa83d8/RAG.ipynb
+https://github.com/RaohaMejba/Qwen2.5-Math-1.5B-Local-Machine-Implementation/raw/0b11293e7a273222e4a0433d08a0d52bdfaeae7c/Run.ipynb
+https://github.com/Aditya365x/Text-to-SQL-Generator_LLM_Fine_tuned/raw/f3a944a51cdf730c9874fc7eeb9ddefde6410054/adi.ipynb
+https://github.com/liwilliam2021/cs234/raw/c83c9fb0683f3ccd1664ba4d79eb5e3122180a76/sft.ipynb
+https://github.com/danielsalyi/NLP-RAG/raw/286b28b5c9ed75a8f83b0002dc861ebdca7fe052/RAG.ipynb
+https://github.com/Kr1mson/practice_RAG/raw/b9251a7b19b887d80aae65179cdaba25c358ed59/hf.ipynb
+https://github.com/marulyanova/Sirius_Alignment05/raw/b8a198176d7c3ec74e6937e23ce2dea65988df6d/T2.ipynb
+https://github.com/AyushGlitch/amazon-ml-challenge-2024-first-try/raw/1706ef9f7fadd908c23e9436233b6df6955ef032/eda.ipynb
+https://github.com/ryomo/simple-rag/raw/4cc1be365193eca1b25677a1d6389e065385de9b/rag.ipynb
+https://github.com/gaurisharan/model-inferences/raw/7df45fbe85d25636d6a1ee37b51bc7a0b49d1ede/FLAN.ipynb
+https://github.com/mazub/rag/raw/2877d31fe0789c838920c9c79ce1694f7cb091de/rag.ipynb
+https://github.com/Engineer-of-Stuff/stable-diffusion-paperspace/raw/7063ae7424cd3f50dca2b540a7c3b9496b4aeb76/other/old/voldy's_colab_paperspace_09-07-2022.ipynb
+https://github.com/xyzhang626/Mamba-tinystories/raw/ac575937d0c2e26a001d413febf3cd3b7c5195c1/run.ipynb
+https://github.com/warmcat/libclamma/raw/ac575937d0c2e26a001d413febf3cd3b7c5195c1/run.ipynb
+https://github.com/Gallifantjack/llama2_prebias/raw/ac575937d0c2e26a001d413febf3cd3b7c5195c1/run.ipynb
+https://github.com/joydddd/llama2.c/raw/ac575937d0c2e26a001d413febf3cd3b7c5195c1/run.ipynb
+https://github.com/Mediumcore/TensorRT-8.5.1.7/raw/9c0710dcac91746ab57d066e6c82dc86912c7341/demo/HuggingFace/notebooks/gpt2.ipynb
+https://github.com/Hawawou/HuggingFace-NLP/raw/637c436ebf8d91a8c7e6cecbed71922e424c23cc/pipeline.ipynb
+https://github.com/arcesoftware/PythonCodes/raw/28088483509cf21c383c4724932292aee63592e6/NLP.ipynb
+https://github.com/michelleli99/Bash-Command-Line-Tool-with-Databricks/raw/08cfd8e3b0227a1c69242b8bdf5286e79afb750c/ex.ipynb
+https://github.com/HiFei2057/fyp_machine_unlearning/raw/135af057a3bc368fbd528c3bcca25c95c4ab8cca/CCS.ipynb
+https://github.com/camenduru/stable-diffusion-webui-sagemaker/raw/88c13ee6ba8481ca5ed4ffa2a7a55cbabe1a4d85/stable/pony_v4_webui_sagemaker.ipynb
+https://github.com/apollohuang1/guanaco-lambda/raw/3e3d94dba62fc49ed70271e1a1d3f663606207f2/run.ipynb
+https://github.com/LamTS72/NaturalLanguageProcessing_DL/raw/1164f17406ee14009277dc7ac1784bf51e82d187/4_NLP_AttentionModel/3_TransferLearning/HuggingFace/.ipynb_checkpoints/C4W3_HF_Lab2_QA_BERT-checkpoint.ipynb
+https://github.com/AlexxGrigore/Gesture-Classification-Thesis/raw/474072becbfdee19d544f97de23a4eb932c7156c/src/create_dataset .ipynb
+https://github.com/s-nlp/formality/raw/041bbd0f37f5f3f6f002f98f8ca43f9ba907da94/notebooks/get_train_stat/sanity_check.ipynb
+https://github.com/hitkumar/llms/raw/dffcc2026a7f2558853a7d6b5d39468648e024fa/transformers/model.ipynb
+https://github.com/FLOW-open-project/FLOW/raw/f1452bd5293a76a0810146f76f923ebb8330edca/fine_tuning/SPP/peft/examples/int8_training/Finetune_flan_t5_large_bnb_peft.ipynb
+https://github.com/armandoordonez/AI-Engineering/raw/c0f29988baa358fe5b407ef4feab9fa1b48a816f/Lab_2_fine_tune_generative_ai_model.ipynb
+https://github.com/jkmackie/language_exploration/raw/618eb6c9237263a04da773777a12de263b87f771/Burns-CCS/.ipynb_checkpoints/CCS-checkpoint.ipynb
+https://github.com/Stx666Michael/SMS-Spam-Classifier/raw/438444e110c2d2bc0ef2d69c48c6b4891827925c/task.ipynb
+https://github.com/rcbmdev/HGFace/raw/cb71adfc5f08da1848a8a058153500476b5bdd6b/analise_sentimento.ipynb
+https://github.com/fiyud/Multimodel-Joint-Emotion/raw/38de2cc11456483aa40815492239953031363a96/pyannote_audio/tutorials/training_a_model.ipynb
+https://github.com/JTSGIT/llm/raw/d7e40c3166e2fe4116b9a0ac65c6226d4b2682f0/6-tl.ipynb
+https://github.com/lliai/D2MoE/raw/7c4564d6a6f7648f0b85edff2ab90a7707f4e0bf/lm-evaluation-harness/examples/lm-eval-overview.ipynb
+https://github.com/ascb-github/21AIE312_2023/raw/2265359733d5d9403f87412717fd442639b27533/Team-02/Codes/Bert/BERT_Q+SA.ipynb
+https://github.com/VAIBHAV1882/Finetuning_LLM/raw/dbdc1a262b9fee56bd86f1dc9787a207f27f98bc/FineTuneGPT2EOS.ipynb
+https://github.com/xXTime-OnXx/hslu-fs25/raw/f07051fe5a7b584e17571f993bb9956ffd455c8a/nlp/sw01/nlp_pipeline.ipynb
+https://github.com/yismailuofa/mlabs/raw/743501d40c7c68c9237c7d09163fe4d9e8d6ba3a/a4/p2.ipynb
+https://github.com/masakhane-io/NLP-DLIndaba/raw/67569532de6c2c49867ade38e9e0ba4b8ec6bc94/Machine Translation NLP Workshop Deep Learning Indaba.ipynb
+https://github.com/YauheniMa/DS09-onl/raw/64677ec454a8b6cff4a01fe378f2fbbc0f065eb5/Lesson_45_Transformers.ipynb
+https://github.com/anindya-saha/Generative-AI-with-LLMs/raw/b8e4c51fcece9778f83fc348c7d451969c2b99a5/deeplearning.ai/Week-2/Lab_2_fine_tune_generative_ai_model.ipynb
+https://github.com/aabuyazid/MT5-EN-ID-Translator/raw/39f78f86079f23935b393e20f3b869ec8f01ca09/Supervised_Finetune_EN_ID.ipynb
+https://github.com/konderal333/HGT-2022-EmDomArDon/raw/69abb23ac59da6b711764ecd316646ba5472f9d4/bert2bert.ipynb
+https://github.com/Ascentic/pre-trained-language-model-demo/raw/cc649dcc6b4db1e384acf428f8a05fa1c9681749/Ascentic_FIKA_Demo.ipynb
+https://github.com/rkaunismaa/LLaMa2_PlayGround/raw/d4b79e820ee5f83799dcc055055b408695f5fafb/Code/TheBlokeCodeLlama34b.ipynb
+https://github.com/Elise23/MLSP_Project/raw/9358a2bde1b00e2f54d13bcdaae6975e54c9b4fc/GEC.ipynb
+https://github.com/Nonsensens/LLM-Rag-Mini-Wikipedia/raw/725184a373c5e13ef3582aa143e6764856ccc1a7/Тестовое_задание_LLM.ipynb
+https://github.com/paras-chinchalkar/langchain-entire-revision-1/raw/e8ed55ddc09002ff04273e4da311fa4422159216/vector-database/faiss.ipynb
+https://github.com/AmalDhouib/leaf_detection_cnn_llm/raw/f0cf7678476728c8082b8245e95a0d973e234d4e/leaf_detection+++++ .ipynb
+https://github.com/Jyotibrat/Speech-To-Text/raw/f1e0024a1511794a50d4f6032b2e8a13d0309319/src/Notebooks/Openai_Whisper_STT_with_NLP.ipynb
+https://github.com/Gourav078/chat__gita/raw/2dacd260be0c74bc9b59307bb2ab4112c7c3f0d7/backend/RAG_Crew_AI.ipynb
+https://github.com/ANDYWANGTIANTIAN/FinGPT/raw/8a8eeeb9ff4e22618570546487b64e639a86170c/fingpt/FinGPT_Benchmark/data/prepare_data.ipynb
+https://github.com/Adityavenkatramani/Image_caption_generator/raw/7c99ea561c1f608a90a48efa75662c7cb249640f/Image_caption_generator.ipynb
+https://github.com/HenriqueLin/thesis/raw/6158398c266e75ec9ac764a1988b0926ac974288/extractor_service/data_extraction/training/other/train.ipynb
+https://github.com/MoshiurRahmanFaisal/Context_Aware_Data_Cleaning/raw/7ffe7ade2737932b6b539cd1622213d4a465cbb7/Jannat/BEMOC_CLEAN/Results/bemoc-clean-xlmroberta1.ipynb
+https://github.com/Hi-Day/RAG-Content-Generation/raw/f9e73ae94d96e12f70106a4284c8733b0823830e/Experiment Auto-merging_Retrieval .ipynb
+https://github.com/zintomvn/Multimodal-Retrieval/raw/2df93b3e6ca5934895e04c1058a456f2f1294c9a/notebooks/search pipeline/qwen3_4b_server_v1.2.ipynb
+https://github.com/leadawon/TIL2024/raw/4b72aea5969b7b2fb8d13c84442ec0cd3e4904f0/dacon/.ipynb_checkpoints/kobertkogpt-checkpoint.ipynb
+https://github.com/jeffersonlicet/santander-questions-classification/raw/586784aae3cc388ad0efab9528e27b612f4816cc/Informe.ipynb
+https://github.com/TalalNaveed/Time-Series-and-Huggingface/raw/0fe5b4fb654a59b1faa1f7542534bc7ada0cd30a/new_bonus.ipynb
+https://github.com/MaverickAlonsoTecM/Equipo4_NLP/raw/8ee1a50bfab79a693cb44b72d014cfa72f727f90/Equipo04_semana_09_v2.ipynb
+https://github.com/rafaleao9923/llm/raw/62e848cd685846ac2dc630b8ff2ad022833c487b/books/llm-fine-tuning-essential-guide/Chapter3/LLMBookChapter3.ipynb
+https://github.com/Dbalette/MSDS_Class_Work/raw/8a510a657ed235909732aee3ac6d43c03997c6f3/Project_Phase_2_Balette2.ipynb
+https://github.com/vpratham/NPS-neural-privilege-separation/raw/bf8cf026d15fc49347243c3e40f7b8957c7ca0fd/experiments/exp012/NPS_Experiment_012_Policy_Subspace_Causal_Necessity_1.ipynb
+https://github.com/AnandaRimal/Rag--mastery/raw/d97cfcc2315fb0a790cf0f28e8fdfb09cab28e79/self query retrieval/YT_LangChain_RAG_tips_and_Tricks_01_Self_Query.ipynb
+https://github.com/GoloMarcos/MVAEs-FakeNews/raw/79cdaefce92451bba3c33b8afef960b35ec58b22/codes/Multimodal_LIME_OCL.ipynb
+https://github.com/KHITOLIA/GenAI/raw/3b7807dec47b53205c38f8aa758307294432837b/Generative AI Application with RAG and Langchain/Store Embeddings Using ChromeDB and FAISS by Saving the DATABASE-Copy1.ipynb
+https://github.com/farahelmashad/job-posting-agent/raw/201b4b9288b131b8551f850471e4ce1aff25ffbd/data-ai-preprocessing/Finetuning_dataset.ipynb
+https://github.com/ludovicoferrara/AA-STAL/raw/a266bcb220ea103a814822dcc4c592d81ee675be/data_pipeline/jupiter_notebooks/obj_det_w_dino.ipynb
+https://github.com/markbpryan/generative-ai-example-rn/raw/155e97eb00b9afde7c914ec3c3ffc61232c96e08/language/use-cases/description-generation/product_description_generator_image.ipynb
+https://github.com/MYC1031/TCD-MSc-Dissertation/raw/05fc38a34715b16e67f955b9096643a584695d7e/domain10_experiment/Computer Science/.ipynb_checkpoints/internet_firewall-checkpoint.ipynb
+https://github.com/hieuchi911/open-domain-translate-service/raw/43c8f913f948148749d755b9875817bbf821de87/test-sanic-app.ipynb
+https://github.com/pytorch/TensorRT/raw/0573af0176a317f8de46a3a75f69274d08e971dd/docs/v2.5.0/_notebooks/CitriNet-example.ipynb
+https://github.com/ericmanley/S26-CS195NLP/raw/70db35899509c5b4f689769418f6b0f69d89e7bd/F1_1_HuggingFace.ipynb
+https://github.com/WelchLabs/videos/raw/a3c22e5133819982b255f7b63e909a28db58c85c/_2025/backprop_1/p39_41_search_random.ipynb
+https://github.com/Simple-Efficient/RL-Factory/raw/d9401132919b19400476a7580930a20cbbd0f218/examples/ppo_trainer/verl_getting_started.ipynb
+https://github.com/WangRongsheng/LLM101/raw/1ff3aca090d0e79d9f65aff8b6b28b23352f8b43/sft/gemma2-sft.ipynb
+https://github.com/FourthBrain/Building-Generative-AI-Apps/raw/f5f7e6de89280162bbaadd271d9c07a9f9165d6b/GenerAd-AI/notebooks/💮 GenerAd AI💮 Fine tuning BLOOM.ipynb
+https://github.com/jnybrahma/Gen_AI_Design_App/raw/f15d8f3748ec169b2bd5a045d6426a8b41e4bd75/LangChain/embeddings-basics.ipynb
+https://github.com/wbcmthh42/bead_pyspark/raw/29666be7216e3e21afd5adc8df6ded7cee1e7d23/4_Data_generation.ipynb
+https://github.com/nsgowebjavaprog/Generative-AI-Agentic-AI/raw/c48bc4299165d5d027d8263ac84489d731bc93d6/LangGraph/3_Langraph_With_Astradb.ipynb
+https://github.com/malaysia-ai/malaysian-dataset/raw/67c6156dbb92783dd370c480c91cfa9a7f2ea314/paraphrase/llama3-70b-rephrase/rephrase-gov.my-llama3.ipynb
+https://github.com/akarwal222/probing-deceptive-representations/raw/37aa2cbc81a7abab26142a6060eee68dc8851bea/colab_demo.ipynb
+https://github.com/yipingji/Sine-Low-Rank/raw/cdcaf8481a17e52f57ad69ccd322b36860ccd7e0/llm/lengths.ipynb
+https://github.com/bpbpublications/Generative-AI-for-Financial-Services/raw/2b1594fed92229a224d128491b6aa3ebb04c6574/Chapter-11/esg-agent.ipynb
+https://github.com/SherryXDing/yahoo-sagemaker-training/raw/20f2393628642cfffb8ac335c28d6c6c509cce8e/huggingface_data_parallelism_checkpointing/sagemaker-notebook.ipynb
+https://github.com/Tullsokk/text-to-movie/raw/30afcd9d7d36eae46023d797969fd367424e9d1b/Text_to_movie.ipynb
+https://github.com/antoineOn/NLP/raw/e6f96e37fa3651b1462c2d74fd77b50021145092/bert.ipynb
+https://github.com/suncommq/guide-for-SDXL/raw/eb50f1c66d3714623e747c9c911051f2bc224a9c/Guide_A1111.ipynb
+https://github.com/tomartushar/Deep-Learning-Specialization-Coursera/raw/4025ca8c8c3d8288ce2a2046937772b421a338c9/C5-Sequence-Models/week-4/W4A3_UGL/QA_dataset.ipynb
+https://github.com/hhongli1979-coder/-/raw/7ceaf01244798bb14c061413de45d261c902d1ee/dd.ipynb
+https://github.com/d-roho/FIN-RAG/raw/e40a3986d0f2da6095bb3c15d6c0ebb07a003941/Self_RAG.ipynb
+https://github.com/gchronis/toxic_logic/raw/a7e0369ebc0f7e3c01f38b4034db5c70e5389b29/new_toxic_comments_complexity_pilot.ipynb
+https://github.com/ShikharSrivastava-aiml/TwitterSentimentAnalysis-NaturalLanguageProcessing/raw/10172276f6e4e6b6ba279e25abbe69c8ae1e6fa2/Bert Models/bert_final.ipynb
+https://github.com/patrickmgebhard/MLE-11/raw/a0e1542fb6f5d51de08b440a735c49ace78360ad/assignments/week-11-transformers/nb/news-article-classification.ipynb
+https://github.com/burakangun/mT5-turkish-summarization/raw/7208079d0c7dba4a6ee87f6b73a3ace4c4d26e44/mt5_finetune.ipynb
+https://github.com/leemiracle/work4ai/raw/52e4386af6dcb1d65abd4a868474175a7be0d774/code领域/03-论文OS/sglang/docs/basic_usage/native_api.ipynb
+https://github.com/alirezanoro0ozii/ml/raw/5a6ae11bd316e78bd91cc1ba1a5476084c6f17f4/local_codes/.ipynb_checkpoints/3_T5_pretrained_generation-checkpoint.ipynb
+https://github.com/prusrafal/NLP-Sentiment-Analysis-of-Opinions-in-Israeli-Palestinian-Conflict/raw/02e160c9a8c525dc79043f6106247945eef0d02a/2_Sentiment-Analysis.ipynb
+https://github.com/dangkhoadl/Machine-Learning-model-implementation/raw/89906933cc7ef62a88c80040bc0975ba3b319eb3/9_BERT_Classification/1_BERT-train-from-scratch.ipynb
+https://github.com/raysworkstuffs/PDF-OCR-RAG-Tool/raw/a0d8cc65f19f736f81b4cae27981c49a45214c8d/OLD Dont touch_Tan_Shu_Jun_OCR_RAG_Streamlit.ipynb
+https://github.com/Jinhyeok33/my_SKN13/raw/d00f4b85cdedc55410d62d6e7a7184f251d2d223/13_Langchain/04_output_parser.ipynb
+https://github.com/Tensionteng/shallow-search/raw/d9401132919b19400476a7580930a20cbbd0f218/examples/ppo_trainer/verl_getting_started.ipynb
+https://github.com/medcv/genai_workshop/raw/3bc9405f4cad6a6d3df4e32df949b829e1ed2563/05_sagemaker_inference/llama7b_lmi_smoothquant.ipynb
+https://github.com/carpe-horas/llm-study/raw/c1abbf995507808e534d0a44aa32a8cca08303f2/cosine_similarity.ipynb
+https://github.com/cytan17726/UAQ_Fact/raw/7c4564d6a6f7648f0b85edff2ab90a7707f4e0bf/lm-evaluation-harness/examples/lm-eval-overview.ipynb
+https://github.com/alexandrehsd/nlp-with-transformers-notes/raw/d9d976103c6f724238e53cd77ac159b6c7a9037b/09_dealing_with_few_to_no_labels.ipynb
+https://github.com/SWi7CHbladE/Langraph_Automation_exercise/raw/2dd21a21f85d352017d2cd2822b1676d075a5bb9/19. RAG Data Ingestion Pipeline.ipynb
+https://github.com/HassanAlgoz/dl/raw/c44858fe5e5a15475ebe24ea86048f2a35100b91/modules/pipelines/02-pipelines/04_text_classification_exercise.ipynb
+https://github.com/RedTachyon/llm-zth/raw/07cc6c0e44f00f115ef90c6e5a0cbdfd56554558/interactive.ipynb
+https://github.com/Supreetjk/Gen_Ai/raw/f5b13de356a2fd974440bb1c83dafe6626189057/Tasks/project.ipynb
+https://github.com/prakharninja0927/NLP_Model_Playground/raw/e1507f46d12c861acce988a8eefb270243c5c6a8/4.Summarization/BigBirdPegasus_Summarization.ipynb
+https://github.com/JiwenJ/DeepTool/raw/d9401132919b19400476a7580930a20cbbd0f218/examples/ppo_trainer/verl_getting_started.ipynb
+https://github.com/irroca/RL-Factory_own_dev/raw/d9401132919b19400476a7580930a20cbbd0f218/examples/ppo_trainer/verl_getting_started.ipynb
+https://github.com/JonathanChiang/Collama/raw/cb2b3e42c52d91f60069345679e8d071a79428a1/notebooks/collamarecipes.ipynb
+https://github.com/yuhua-zhou/BSLoRA/raw/7c4564d6a6f7648f0b85edff2ab90a7707f4e0bf/lm-evaluation-harness/examples/lm-eval-overview.ipynb
+https://github.com/ankitgupta1729/AI-ML-DS/raw/b5952d3c7069ca662e92d08cf49bba3fc5ec170c/50.Andrew-Ng-Course-Material/Deep-Learning-Specialization-Coursera/Sequence Models/week4/w4a3/QA_transformer.ipynb
+https://github.com/JONAHKYAGABA/-Whisper-ASR-Fine-Tuning-for-Amharic/raw/6fc433fa3107bfe77a48c1dfbd64d0ba7af5694c/whisper_eval_CLEANED.ipynb
+https://github.com/ks-aniket/Transformers/raw/c633d0edcc3eaae24620437493994edb59c21802/Basics/pipeline_in_depth.ipynb
+https://github.com/JeansAthiwat/DSDE_midterm_repo_for_TAs/raw/ffdaec6d2193a267ddf3eb0c76e7c3f8575f8494/pipeline-BEST_SCORE.ipynb
+https://github.com/donbcolab/composable_vlms/raw/1984260d6083a77bf573ad4a3e213e19601d409f/notebooks/finetuned_object_detection_using_adapters_final.ipynb
+https://github.com/jnorderia82/langchain-ai-langchain/raw/209975b3552fcde186bcb9516019a8aa52d22c75/docs/extras/integrations/llms/runhouse.ipynb
+https://github.com/riteshbhirud/MOESVD/raw/7c4564d6a6f7648f0b85edff2ab90a7707f4e0bf/lm-evaluation-harness/examples/lm-eval-overview.ipynb
+https://github.com/LaJarjan/RS-MoE/raw/7c4564d6a6f7648f0b85edff2ab90a7707f4e0bf/lm-evaluation-harness/examples/lm-eval-overview.ipynb
+https://github.com/DeL-TaiseiOzaki/LLM_dev/raw/8d547a791487b8ad2ab723293961ab20a404d836/oss-llm-japanese-main/src/preprocessing/rephrasing/rephrasing_cc_v2_1.ipynb
+https://github.com/AnhNguyenVLU/Project-NLP/raw/637cedbff82102c833ade4cb525e739b9c7414d8/Final Project/Teacher Roberta.ipynb
+https://github.com/ruthikeswar-reddy/smol_vlm/raw/e1e8ba3d9a0fe555431d24e80ca1e3d57ad4d99f/notebooks/smolvlm_lpd.ipynb
+https://github.com/TanmayT123/GEN-AI_LAB/raw/cfc6c88f1aa07b4538d6813fcaf738931452206c/Assignment No 06/Assignment_6.ipynb
+https://github.com/rodrigomj87/google-skill-boost/raw/155e97eb00b9afde7c914ec3c3ffc61232c96e08/language/use-cases/description-generation/product_description_generator_image.ipynb
+https://github.com/kumarpriyanshu09/my-generative-ai/raw/155e97eb00b9afde7c914ec3c3ffc61232c96e08/language/use-cases/description-generation/product_description_generator_image.ipynb
+https://github.com/MedhatELbanna/My_AIE9/raw/2a740d292822b7bccf2b0ade4b835349fac63564/11_Advanced_Retrieval/Advanced_Retrieval_with_LangChain_Assignment.ipynb
+https://github.com/the-rudra/fyp/raw/ad97aa19cdaada5011f4c96ce2d34922eecd772b/test_linkein.ipynb
+https://github.com/huggingface/notebooks/raw/f9339abffb79a4d200af2533743b65fc220b4503/transformers_doc/ja/pytorch/summarization.ipynb
+https://github.com/huggingface/notebooks/raw/8fd12d656956f6fd618ce9d873f897ddd0658720/smolagents_doc/hi/building_good_agents.ipynb
+https://github.com/samyakshrestha/llm-finetuning-summarizer/raw/96aeb0de0f3f7081a1b0b4b906fd8ec61de4752b/notebooks/05_tokenization.ipynb
+https://github.com/getao/icae/raw/44c61e49077c3ac7a0a76d6dfed70efb173424be/code/icae_v1/peft/examples/sequence_classification/LoRA.ipynb
+https://github.com/robinsingh-ai/Omni-Docs/raw/411f181fea1f5415782d9285a4bffa22dff05cc8/research/New_embed.ipynb
+https://github.com/aishwarya30998/LangChain/raw/3861267d002aa727eaf87f26ca284c8f6e724ff8/Q_n_A_chatbot_using_langchain.ipynb
+https://github.com/bellabf/ml-sandbox/raw/45ced321e033f852459c43baf356eec9fff85aa0/transformers-2.ipynb
+https://github.com/CS639-Data-Management-for-Data-Science/s25/raw/b0f4b094e52786e64b741a7243da9ca41e7dbf53/lec/39-llm/Elasticsearch_RAG.ipynb
+https://github.com/Plouc314/quant-sentiment-score/raw/2599317ca16697ea9998a68005ae1eb779b22f70/notebooks/fetch_data.ipynb
+https://github.com/jthoerschgen/fratgpt/raw/fe77226501a548eb739596e9c32261ba28646f4a/fratgpt/finetune.ipynb
+https://github.com/puzzlecollector/law_test/raw/dbfde12bd94adc35637d3ac76e1b1c6b440820b7/law_large.ipynb
+https://github.com/andrewellul/tutorials/raw/baefa68b60c4ef0717459ce4ab654595d59e31dc/embeddings.ipynb
+https://github.com/andjoer/llm_poetry_generation/raw/3f61a06789bcf16dca47e838fc74543b7f3d02ce/rythm_beam_search/rythm_beam_search.ipynb
+https://github.com/antoineedy/mail-project/raw/d867a4e920eeddb84cb556f99a197102046dba33/training_intent.ipynb
+https://github.com/jayyanar/genai-apps/raw/8294495df4ec5fec3388e2526ec7fb68012494f7/01_Fine_tune_a_pre_trained_model_for_allegation_match.ipynb
+https://github.com/chemaar/app_skeleton/raw/37a1170d83a66af278ec8ff3eb877d967881edde/intro-nlp-2022/Curso_NLP.ipynb
+https://github.com/GaganDeepAlusuri/Classifying-Human-and-ChatGPT-generated-answers-using-Bert/raw/cbab93db147827aae0c7cf5f207b82f81025e8c9/Bert_Text_Classifier_without_Regularization.ipynb
+https://github.com/zurlazar/animations/raw/131ed91770ecb8acccb6b82838eac37c2c8cd321/colab/animations_image_to_3d.ipynb
+https://github.com/greengod63/generative-ai-apps/raw/f5f7e6de89280162bbaadd271d9c07a9f9165d6b/GenerAd-AI/notebooks/💮 GenerAd AI💮 Fine tuning BLOOM.ipynb
+https://github.com/ocenandor/whitehead/raw/104f6b91f22915a661fc50ebf0770baf6102ee93/notebooks/007_optimization_experiments.ipynb
+https://github.com/Mohamedragih1/Neural-Machine-Translation/raw/8d5cbf9fd3b37567f913db0c7ca300d6b934b83b/Neural_Machine_Translation.ipynb
+https://github.com/st143575/NLP-With-Transformers/raw/31f7df3cbeaa2068a11109bd89ea579c4e2b35e4/chapter-1/hello_transformers.ipynb
+https://github.com/meokoken/cc_instructft/raw/44829e0e6cce686dabc0450c52a25e0072822722/demo/vicuna_demo_trained.ipynb
+https://github.com/germangp088/diplomatura_ia/raw/9c0105bc1590067ba9e118a596aa9e85fa684db9/practicas/Fede/01 -  ProgrammaticPrompting1.ipynb
+https://github.com/chuachinhon/wav2vec2_transformers/raw/cf2cd93eebaf68a3de2f993b9ec83c2123107019/notebooks/.ipynb_checkpoints/1.0_wav2vec2_short-checkpoint.ipynb
+https://github.com/stefanasandei/roai-solved/raw/fc1fc90dc6c75bc72ccd8d464726a2d4be0ad996/contests/mlcompete/thousand_rooms/vqa.ipynb
+https://github.com/dess-mannheim/LLM4ESS/raw/53092cc16df2094258812ad2584eef8b8fa4abc2/HWS25/Exercises/Exercise 3/3_llm_inference_solution.ipynb
+https://github.com/koushalsmodi/MachineLearningProjects/raw/8fe915c96a177c98984ab2e9fd2728fc2958974d/NLP/transformers-course/question_answering.ipynb
+https://github.com/allisonaustin/log-transformers/raw/98275c3069b00988a1ced50976f3caec5b9e39ac/minGPT/GPT.ipynb
+https://github.com/analyticsrepo01/trailblazer2/raw/17eabef8c1905153772c8d72dc42ef520a50dca2/testing/.ipynb_checkpoints/part_mixtral-Copy1-checkpoint.ipynb
+https://github.com/HimakarRaju/preskilling/raw/b19cf8ba1bedf2065d5dcc274b0398f50815101f/Capstone Projects/WebSearchSummarizer/websearchSummariser (1).ipynb
+https://github.com/Dim10p/deduplication-challenge/raw/12b1f64a0caf1b5cd47dd8980b614122610388c2/main.ipynb
+https://github.com/pravpandit/NLP_works/raw/99b2486e54a5b64df8039aaa7fe15e8016e3534f/praveen_data/self-llm-master/DeepSeek/07-deepseek_fine_tune.ipynb
+https://github.com/P4Bs/infosec-master-thesis-code/raw/b0d6a14a7759a0718591b42b78cb5c410b2cfad8/LLMs/eval/fine_tuned/SmolLM2-1_7B-instruct-fine-tuned-eval.ipynb
+https://github.com/Ahnkyuwon504/AI-modeling/raw/aa62d95573e63fc0447b139cafe7102fa525647a/ChatGPT app/ask_pdf.ipynb
+https://github.com/desenvolvedorjairomonassa/generativeAI/raw/f30b63225a899f6876b759ea9127ad924d179299/translation_en_it.ipynb
+https://github.com/ChoiHyunWoo04/contest/raw/0c6b87dea9ce86a7e04a96cf19d01495385ba643/dacon/난독화된 한글 리뷰 복원 AI 경진대회/fine-tuning_encoder.ipynb
+https://github.com/Yuki-Zang/WouldILieToYou/raw/2fed03479b231d33ec181a7dc27f6754a4d4f63b/Others/wordRecognizer.ipynb
+https://github.com/cwinsor/uml_comp5300/raw/f5929371eb3df8cf3cd8741a607cf67c17592242/hw7_long_transformers/hw6c_bert_classification_unsolved.ipynb
+https://github.com/rishabh11336/Deeplearning.ai-Project/raw/89d9432a8c3f3ab83d5b619c18bddd011e10a3a3/Finetuning Large Language Models/06_Evaluation_lab_student.ipynb
+https://github.com/Hps2702/CodeSwitching/raw/6096407412ec4299feae95b9c4f499040ff3380a/CodeSwitch/Code/mt5.ipynb
+https://github.com/Aurora2500/ulpgc-pln/raw/029ecec632bde13645029900e1fad2d13cf45e77/ppo/PLN_PPO.ipynb
+https://github.com/BostonAnalytics/AD698-generative-ai-for-BA/raw/10498a348dc9addfed341b2fb79c11716a8841d1/deliverables-solutions/Tutorials/M08_LN3_sol.ipynb
+https://github.com/ai-talent-hub-avito/homework_examples/raw/0b490f99b0ab2c85efcc0771392fccf2cf99fe37/data_science/Пример ДЗ. Курс _LLM_/Слабое решение.ipynb
+https://github.com/ZG20250526/ARLMT-Medical-AR-Teaching/raw/08bfe9bde02dabf630897391301efdbf0f7550d9/ARLMT/llava/notebook/visualize_instruction_data.ipynb
+https://github.com/zhusq20/verl_dev/raw/d9401132919b19400476a7580930a20cbbd0f218/examples/ppo_trainer/verl_getting_started.ipynb
+https://github.com/RithishRM/GenAI/raw/826b0d4c6462af6ac7cfde672f448c618349089b/Unit 3/PES2UG23CS458_R_M_Rithish_Barath_2_Reranking_and_Query_Expansion.ipynb
+https://github.com/NguyenThanhThiet87/YOLO_RVT/raw/2bc7de418f265457154ab63191bab540ee341a15/YOLO_RVT_E2E_CCPD/train/notebooks/ccpd_base_e2e_train.ipynb
+https://github.com/edgarbc/RAG-systems/raw/3d23cb2617877d281da79a76a7f9c60d8147c5c5/RAGAs/RAGAS_demo.ipynb
+https://github.com/pes2ug23cs166/GENAI_PES2UG23CS166/raw/796c429ca81d16c59197e5ff484b678b12c2ea25/UNIT2/4_RAG_166.ipynb
+https://github.com/mlflow/mlflow-legacy-website/raw/241251061d9915ef5dbcbcd2cb10f6248ca55198/docs/2.11.3/llms/transformers/tutorials/prompt-templating/prompt-templating.ipynb
+https://github.com/muhammadshahzad110/langchain/raw/209975b3552fcde186bcb9516019a8aa52d22c75/docs/extras/integrations/llms/runhouse.ipynb
+https://github.com/smartcat923/langChain/raw/209975b3552fcde186bcb9516019a8aa52d22c75/docs/extras/integrations/llms/runhouse.ipynb
+https://github.com/shaunck96/Langchain_To_Build_Apps/raw/209975b3552fcde186bcb9516019a8aa52d22c75/docs/extras/integrations/llms/runhouse.ipynb
+https://github.com/OmarBubkr/LangChain/raw/209975b3552fcde186bcb9516019a8aa52d22c75/docs/extras/integrations/llms/runhouse.ipynb
+https://github.com/Y3g9r/Vector-base-NEL/raw/274cd3bed09cacf81cfd81684afd2ec3ec03d290/src/disambiguator/disambiguator_research(BERT(full freeze)+2FC+2dropout+FC+dropout)-f170p.ipynb
+https://github.com/maheshj01/api-docs-ai/raw/411f181fea1f5415782d9285a4bffa22dff05cc8/research/New_embed.ipynb
+https://github.com/XinShuo-ph/icae_build/raw/44c61e49077c3ac7a0a76d6dfed70efb173424be/code/icae_v1/peft/examples/sequence_classification/LoRA.ipynb
+https://github.com/analyticsrepo01/ai-workshop-my/raw/17eabef8c1905153772c8d72dc42ef520a50dca2/testing/.ipynb_checkpoints/part_mixtral-Copy1-checkpoint.ipynb
+https://github.com/analyticsrepo01/pru-ai-labs/raw/17eabef8c1905153772c8d72dc42ef520a50dca2/testing/.ipynb_checkpoints/part_mixtral-Copy1-checkpoint.ipynb
+https://github.com/Mira-dmh/privacy_policy_analysis_system/raw/df0353ee3cb41e0f59d5c190d8baf6730a42205e/src/RAG/incremental_indexing_rag .ipynb
+https://github.com/Dalla-AI/SMS-Spam-Detection-NLP/raw/506a74914bbd6df059cef1b107ba177221e8e645/Notebooks/6. Zero_Shot_Classification.ipynb
+https://github.com/marcelino123455/models_comparison/raw/4afd6caa57d3694de19a92a09e41fef4ecdb1fc6/testing_organized/preprocessed_data/__prompting_classification/llama_3dot1_8B_indexes_20251028_021416.ipynb
+https://github.com/martin226/kaleidoscope/raw/3b20ffd247cc5115ab04d743d4b441a84088bc93/notebooks/temperature-scaling-bertweet-base-irony.ipynb
+https://github.com/saadat-r-ahmed/sentimentalDestroR/raw/53b1217e9a3b318bcc72ca79646b35aff91d226e/data_analysis.ipynb
+https://github.com/gordonchen1989/data-science-on-aws/raw/a1772af8c1eb6e87dc300a7c18f9d22b7010c116/00b_Setup_Dependencies.ipynb
+https://github.com/Shirley020116/BigDataProject/raw/f2dd2ea33bfce983ac07b193e748ad36914ce9d2/stabilityai_stable_diffusion_xl_base_1_0.ipynb
+https://github.com/robertoargs/wth-aoai-wizard/raw/e84757513b05e94880f44bc36ba564a92bc84f88/notebooks/CH-05-ResponsibleAI.ipynb
+https://github.com/MateoGonzalezPautaso/fiuba-computer-engineering/raw/10d397859a8f9d1821668063b958aafe5012ce1a/TA047-ciencia-de-datos/TP2/Entregas/Red Neuronal/v11 - F1_0.7949/TA047R_TP2_GRUPO02_RED_NEURONAL_N11.ipynb
+https://github.com/otaviolube/posdevai_PLN/raw/3fab244a79cf665f75ca8db08bd4ea6002c66d24/Projeto1/projeto1-bertimbau-base-1.ipynb
+https://github.com/suhyeon0325/TIL/raw/b8f0c393002f0426408d85bd706e2136f6fe4f43/Multicampus_34/240304_finance_news_in_colab.ipynb
+https://github.com/hoodielive/modernpy/raw/f0bc94a14d24b32c7424070c89cd7a084672b501/2026/Rag/RAG-with-Python-Cookbook/ch08_agentic_rag/8.6_sales_negotiation_agent_openai_sdk/building_agents_with_openai_sdk.ipynb
+https://github.com/samanthaoliv/gemini-demos/raw/cd89ddc9be0bf1b68f1a0a167e651b6ae04ef45c/language/use-cases/description-generation/product_description_generator_image.ipynb
+https://github.com/deepa-s-2004/LivePortrait_Deepa.ipynb/raw/6ba570a7450e2bbd7d3d3e5fab0f855579704cf7/LivePortrait_Coding_Assignment_IntellifAI_Deepa.ipynb
+https://github.com/damtien444/emotion-sequence-editing/raw/013834357d9f0b88b6fc4554d4fc0876b874ad33/notebooks/7_test_internvl.ipynb
+https://github.com/TobiasBaehren/Sentimen_Analysis_on_Tweets_explaining_Wirecard/raw/a4a8fbf8dca2c55179af7f2aa32a7ff40af8fc7c/tests/.ipynb_checkpoints/Sentiment_Analysis_Twitter_Data-checkpoint.ipynb
+https://github.com/Adityavanjre/Project-K/raw/3b38119eb284d4f47bcda02a3a86014a4338f275/integrations/airllm/air_llm/tests/test_notebooks/test_compression.ipynb
+https://github.com/merveenoyan/smol-vision/raw/e79e5776ab5d1ad84d8ef718472f7912d0d7fb21/Smol_VLM_FT.ipynb
+https://github.com/merveenoyan/smol-vision/raw/8d7226c801e5e4e8a69dd1b45280099ddb8b0cb7/Idefics_FT.ipynb
+https://github.com/curiousily/Get-Things-Done-with-Prompt-Engineering-and-LangChain/raw/326e427dbd59215649dbd40fd142daf83107cfbc/llama-2.ipynb
+https://github.com/curiousily/AI-Bootcamp/raw/bbc2562a3b51ddf703b0639767058a8662f89a03/05.llms-101.ipynb
